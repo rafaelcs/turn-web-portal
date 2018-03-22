@@ -3,7 +3,7 @@
 
 ## Setup Tests:
 * Install [Node](http://nodejs.org) (v4.x.x or later)
-* `git clone https://github.com/rafaelcs/-.git`
+* `git clone https://github.com/rafaelcs/turn-web-portal.git`
 * `sudo npm install` to install the project dependencies
 * `node_modules/.bin/webdriver-manager update` to update drivers
 
