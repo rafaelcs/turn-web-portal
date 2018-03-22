@@ -15,3 +15,5 @@
 
 ## Run API tests locally:
 * run `grunt apiTests`
+
+![](http://i67.tinypic.com/a9ofmx.png)
